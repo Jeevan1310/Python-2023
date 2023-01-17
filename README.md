@@ -8,3 +8,7 @@ Lets start from Day 1 - 15/01/2023
 - **Script title**: Age Calculator 
 - **What I have Done**: I have created a python script which can calculate our age in months and days with help of  Time library 
 - **Code link** : https://github.com/Jeevan1310/Python-2023/blob/main/run-001.py
+
+Day 2 -16/01/2023
+
+Referecende some topics
