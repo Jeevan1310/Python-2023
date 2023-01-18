@@ -13,6 +13,9 @@ Day 2 -16/01/2023
 
 Referecende some topics
 
-Day 3
+Day 3 - 17/01/2023
+
+Research on projects
 
 Day 4
+Finalized a project
