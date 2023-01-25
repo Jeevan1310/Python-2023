@@ -18,4 +18,4 @@ Day 3 - 17/01/2023
 Research on projects
 
 Day 4
-Finalized a project
+Finalized a projects
